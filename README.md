@@ -9,7 +9,7 @@ If you have any questions, notably if you are a technical recruiter and you want
 Here is the list of what i did for now and what i expect to do in the next few months :
 
 - [x] Symfony 4.3 installation
-- [x] Do not have config,.env,public files on the git
+- [x] Do not have config, .env, public files on the git
 - [x] Create an configure on the site a webmail with the domain name
 - [x] Create and implement the entities (superThemeRepository, theme, category, contact, comments, user...)
 - [x] Create submission form for the user (2 passwords check + email validation + remember me)
