@@ -4,6 +4,8 @@ Biolibre is a website to share positive articles and help people in life. It is 
 
 Please find the website here : https://www.biolibre.fr/
 
+If you have any questions, notably if you are a technical recruiter and you want to have access to the real BioLibre git (which is in private), contact me on the following address : sabouretmaxime@gmail.com
+
 Here is the list of what i did for now and what i expect to do in the next few months :
 
 - [x] Symfony 4.3 installation
