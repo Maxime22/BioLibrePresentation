@@ -38,6 +38,7 @@ Here is the list of what I did for now and what I expect to do in the next few m
 - [x] Netflix carrousel on the main page
 - [x] Logo refont
 - [x] SFTP Filezilla management for pictures
+- [x] Propose other articles linked to the article in lecture
 - [ ] FoodLine entity (to do a food table to gather informations about food)
 - [ ] Write articles
 - [ ] Searchbar
