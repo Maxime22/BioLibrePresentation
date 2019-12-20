@@ -46,4 +46,5 @@ Here is the list of what I did for now and what I expect to do in the next few m
 - [ ] Facebook subscription
 - [ ] React.js implementation on some pages with the site in API gradually
 - [ ] Test implementation (in Symfony with Php Unit and React.js with Jest)
-
+- [ ] Do little games in JS in the website
+- [ ] Make a mobile app in React Native
