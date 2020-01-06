@@ -41,8 +41,9 @@ Here is the list of what I did for now and what I expect to do in the next few m
 - [x] Propose other articles linked to the article in lecture
 - [x] Write articles
 - [x] Searchbar
+- [x] Profile page for people to share their social networks and their website
 - [ ] Paging
-- [ ] Exchange page
+- [ ] Exchange page, shop page
 - [ ] Facebook subscription
 - [ ] React.js implementation on some pages with the site in API gradually
 - [ ] Test implementation (in Symfony with Php Unit and React.js with Jest)
