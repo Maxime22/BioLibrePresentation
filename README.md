@@ -1,6 +1,6 @@
 # BioLibre
 
-Biolibre is a website to share positive articles and help people in life. It is like a blog to share things with people and to make their life easier. So the goal is to learn things or at least to have a good time. It is implemented with Symfony 4 (a french PHP framework), Bootsrap and it will then be gradually implemented with React.js (notably cause I worked during one year with these technologies in a startup and I love them).
+Biolibre is a website (blog) to share positive articles with people and making their life easier. So the goal is to learn things or at least to have a good time. It is implemented with Symfony 4 (a french PHP framework), Bootstrap and it will then be gradually implemented with React.js (notably cause I worked during one year with these technologies in a startup and I love them).
 
 Please find the website here : https://www.biolibre.fr/
 
