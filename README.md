@@ -1,6 +1,6 @@
 # BioLibre
 
-Biolibre is a website (blog) to share positive articles with people and making their life easier. So the goal is to learn things or at least to have a good time. It is implemented with Symfony 4 (a french PHP framework), Bootstrap and it will then be gradually implemented with React.js (notably cause I worked during one year with these technologies in a startup and I love them).
+Biolibre is a website (blog) to share positive articles with people and making their life easier. So the goal is to learn things or at least to have a good time. It is implemented with Symfony 5 (a french PHP framework), Bootstrap and it will then be gradually implemented with React.js (notably cause I worked during one year with these technologies in a startup and I love them).
 
 Please find the website here : https://www.biolibre.fr/
 
@@ -9,6 +9,7 @@ If you have any questions, notably if you are a technical recruiter and you want
 Here is the list of what I did for now and what I expect to do in the next few months :
 
 - [x] Symfony 4.3 installation
+- [x] Symfony 5.0 update (01/02/2020)
 - [x] Do not have config, .env, public files on the git
 - [x] Create an configure on the site a webmail with the domain name
 - [x] Create and implement the entities (superThemeRepository, theme, category, contact, comments, user...)
@@ -44,8 +45,7 @@ Here is the list of what I did for now and what I expect to do in the next few m
 - [x] Profile page for people to share their social networks and their website
 - [ ] Paging
 - [ ] Exchange page, shop page
-- [ ] Facebook subscription
-- [ ] React.js implementation on some pages with the site in API gradually
+- [ ] React.js implementation on some pages with the site in API gradually (maybe not totally because of the SEO)
 - [ ] Test implementation (in Symfony with Php Unit and React.js with Jest)
 - [ ] Do little games in JS in the website
 - [ ] Make a mobile app in React Native
