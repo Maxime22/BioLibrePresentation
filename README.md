@@ -43,9 +43,8 @@ Here is the list of what I did for now and what I expect to do in the next few m
 - [x] Write articles
 - [x] Searchbar
 - [x] Profile page for people to share their social networks and their website
-- [ ] Paging
-- [ ] Exchange page, shop page
-- [ ] React.js implementation on some pages with the site in API gradually (maybe not totally because of the SEO)
+- [x] Webpack Encore implementation with for CSS and js files, better for React inclusion
+- [ ] React.js implementation on some pages with the site in API gradually (maybe not totally because of the SEO), notably paging
 - [ ] Test implementation (in Symfony with Php Unit and React.js with Jest)
-- [ ] Do little games in JS in the website
+- [ ] Little games in JS in the website
 - [ ] Make a mobile app in React Native
